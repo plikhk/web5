@@ -23,4 +23,4 @@ Every page has the same navbar. Each page loads its own script (`part1.js` to `p
 ## Deploy (GitHub Pages)
 1. Push all files to the repository root.
 2. Go to **Settings > Pages**, choose the `main` branch and the `/ (root)` folder, then save.
-3. The site is published at `https://plikhk.github.io/<repository-name>/`.
+3. The site is published at `https://plikhk.github.io/web5/`.
